@@ -32,7 +32,7 @@ masterdeg:
 undergrad:
   - name: Sungjae Lee
     photo: /assets/images/people/sungjae.jpeg
-    website: sungjae.me
+    website: http://sungjae.me
     description: Big data analytics using machine learning algorithms.
 
 alumni:
